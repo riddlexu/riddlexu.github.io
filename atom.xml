@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Riddle Xu's Blog]]></title>
+  <link href="http://riddlexu.github.io/atom.xml" rel="self"/>
+  <link href="http://riddlexu.github.io/"/>
+  <updated>2014-10-26T14:55:18+08:00</updated>
+  <id>http://riddlexu.github.io/</id>
+  <author>
+    <name><![CDATA[Riddle Xu]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First Blog]]></title>
+    <link href="http://riddlexu.github.io/blog/2014/10/26/first-blog/"/>
+    <updated>2014-10-26T14:41:30+08:00</updated>
+    <id>http://riddlexu.github.io/blog/2014/10/26/first-blog</id>
+    <content type="html"><![CDATA[<p>This is the first post of my blog. I will add more content soon. Good luck!</p>
+]]></content>
+  </entry>
+  
+</feed>
