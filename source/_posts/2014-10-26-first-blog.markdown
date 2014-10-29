@@ -6,4 +6,4 @@ comments: true
 categories: 
 ---
 
-This is the first post of my blog. I will add more content soon. Good luck!
+This is the first post of my blog. Hello world!
