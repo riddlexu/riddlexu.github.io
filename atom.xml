@@ -4,7 +4,7 @@
   <title><![CDATA[Riddle Xu's Blog]]></title>
   <link href="http://riddlexu.github.io/atom.xml" rel="self"/>
   <link href="http://riddlexu.github.io/"/>
-  <updated>2014-10-26T16:12:18+08:00</updated>
+  <updated>2014-10-29T21:11:10+08:00</updated>
   <id>http://riddlexu.github.io/</id>
   <author>
     <name><![CDATA[Riddle Xu]]></name>
@@ -18,7 +18,7 @@
     <link href="http://riddlexu.github.io/blog/2014/10/26/first-blog/"/>
     <updated>2014-10-26T14:41:30+08:00</updated>
     <id>http://riddlexu.github.io/blog/2014/10/26/first-blog</id>
-    <content type="html"><![CDATA[<p>This is the first post of my blog. I will add more content soon. Good luck!</p>
+    <content type="html"><![CDATA[<p>This is the first post of my blog. Hello world!</p>
 ]]></content>
   </entry>
   
