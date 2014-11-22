@@ -4,7 +4,7 @@
   <title><![CDATA[Riddle Xu's Blog]]></title>
   <link href="http://riddlexu.github.io/atom.xml" rel="self"/>
   <link href="http://riddlexu.github.io/"/>
-  <updated>2014-10-29T21:35:45+08:00</updated>
+  <updated>2014-11-22T16:24:09+08:00</updated>
   <id>http://riddlexu.github.io/</id>
   <author>
     <name><![CDATA[Riddle Xu]]></name>
@@ -14,6 +14,23 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Some Interview Questions(keep Updating)]]></title>
+    <link href="http://riddlexu.github.io/blog/2014/11/22/some-interview-questions-keep-updating/"/>
+    <updated>2014-11-22T16:10:04+08:00</updated>
+    <id>http://riddlexu.github.io/blog/2014/11/22/some-interview-questions-keep-updating</id>
+    <content type="html"><![CDATA[<p>以下是一些有趣的面试题:</p>
+
+<ol>
+<li><p>积分图：给一个1024×1024的数字矩阵。怎样对矩阵做预处理，使得对其中任意一个小矩阵，都可以快速的求出其中的数的和？用1024个线程怎样做预处理？用1024×1024个线程怎样做预处理？</p></li>
+<li><p>两个鸡蛋：</p></li>
+</ol>
+
+
+<p>待续&hellip;</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[How to Write Blog With Octopress]]></title>
     <link href="http://riddlexu.github.io/blog/2014/10/29/how-to-write-blog-with-octopress/"/>
     <updated>2014-10-29T21:13:15+08:00</updated>
@@ -21,19 +38,19 @@
     <content type="html"><![CDATA[<p>创建新文章:  <br/>
 rake new_post[&ldquo;post name&rdquo;]</p>
 
-<p>生成    <br/>
+<p>生成:   <br/>
 rake generate</p>
 
-<p>预览(localhost:4000)    <br/>
+<p>预览(localhost:4000):   <br/>
 rake preview</p>
 
-<p>部署
+<p>部署:<br/>
 rake deploy</p>
 
-<p>提交到github
-git add .
-git commit -am &ldquo;commit log&rdquo;
-git pull
+<p>提交到github:<br/>
+git add .<br/>
+git commit -am &ldquo;commit log&rdquo;<br/>
+git pull<br/>
 git push</p>
 ]]></content>
   </entry>
